@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2026-01-28 22:44:47,272 | Message: Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry question(std txt rate)T&C's apply 08452810075over18's | Prediction: 1 | Spam Probability: 0.9640 | Latency: 0.0040s
 2026-01-29 00:40:42,228 | Message: Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry question(std txt rate)T&C's apply 08452810075over18's | Prediction: 1 | Spam Probability: 0.9640 | Latency: 0.1004s
 2026-01-29 13:01:46,738 | Msg: Free entry in 2 a wkly comp to... | Pred: 1 | Prob: 0.9640
@@ -16,3 +17,23 @@
 2026-01-29 17:49:36,156 | Msg: FreeMsg Hey there darling it's... | Pred: 0 | Prob: 0.1769
 2026-01-29 17:49:53,530 | Msg: ,WINNER!! As a valued network ... | Pred: 1 | Prob: 0.9855
 2026-01-29 17:50:03,204 | Msg: WINNER!! As a valued network c... | Pred: 1 | Prob: 0.9855
+=======
+2026-01-28 22:44:47,272 | Message: Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry question(std txt rate)T&C's apply 08452810075over18's | Prediction: 1 | Spam Probability: 0.9640 | Latency: 0.0040s
+2026-01-29 00:40:42,228 | Message: Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry question(std txt rate)T&C's apply 08452810075over18's | Prediction: 1 | Spam Probability: 0.9640 | Latency: 0.1004s
+2026-01-29 13:01:46,738 | Msg: Free entry in 2 a wkly comp to... | Pred: 1 | Prob: 0.9640
+2026-01-29 13:02:55,349 | Msg: Free entry in 2 a wkly comp to... | Pred: 1 | Prob: 0.9640
+2026-01-29 13:08:16,048 | Msg: Free entry in 2 a wkly comp to... | Pred: 1 | Prob: 0.9640
+2026-01-29 13:08:26,570 | Msg: Free entry in 2 a wkly comp to... | Pred: 1 | Prob: 0.9360
+2026-01-29 14:50:50,503 | Msg: Free entry in 2 a wkly comp to... | Pred: 1 | Prob: 0.9129
+2026-01-29 17:48:04,748 | Msg: dr amarnath gupta is a world c... | Pred: 0 | Prob: 0.0540
+2026-01-29 17:48:32,776 | Msg: apply for loan in the next 20 ... | Pred: 0 | Prob: 0.2468
+2026-01-29 17:48:58,015 | Msg: "FreeMsg Hey there darling it'... | Pred: 0 | Prob: 0.0986
+2026-01-29 17:49:20,739 | Msg: "FreeMsg Hey there darling it'... | Pred: 0 | Prob: 0.1769
+2026-01-29 17:49:22,659 | Msg: "FreeMsg Hey there darling it'... | Pred: 0 | Prob: 0.1769
+2026-01-29 17:49:25,146 | Msg: "FreeMsg Hey there darling it'... | Pred: 0 | Prob: 0.1769
+2026-01-29 17:49:32,721 | Msg: FreeMsg Hey there darling it's... | Pred: 0 | Prob: 0.1769
+2026-01-29 17:49:34,387 | Msg: FreeMsg Hey there darling it's... | Pred: 0 | Prob: 0.1769
+2026-01-29 17:49:36,156 | Msg: FreeMsg Hey there darling it's... | Pred: 0 | Prob: 0.1769
+2026-01-29 17:49:53,530 | Msg: ,WINNER!! As a valued network ... | Pred: 1 | Prob: 0.9855
+2026-01-29 17:50:03,204 | Msg: WINNER!! As a valued network c... | Pred: 1 | Prob: 0.9855
+>>>>>>> ae3abbbc2e41e8ddf09d614a1558e0a879b3aacb
