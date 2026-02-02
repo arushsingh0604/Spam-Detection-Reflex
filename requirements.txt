@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 pandas
 numpy
 scikit-learn
@@ -7,14 +7,3 @@ seaborn
 imbalanced-learn
 joblib
 streamlit
-=======
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-imbalanced-learn
-joblib
-streamlit
->>>>>>> ae3abbbc2e41e8ddf09d614a1558e0a879b3aacb
-wordcloud
