@@ -16,7 +16,7 @@ RUN pip install --upgrade pip \
     && pip install -r requirements.txt
 
 COPY . .
-=
+
 RUN reflex init
 
 EXPOSE 3000
