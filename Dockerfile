@@ -5,7 +5,6 @@ ENV PYTHONUNBUFFERED=1
 
 WORKDIR /app
 
-# Install system dependencies (IMPORTANT: unzip is required by Reflex)
 RUN apt-get update && apt-get install -y \
     build-essential \
     curl \
@@ -18,8 +17,8 @@ RUN pip install --upgrade pip \
 
 COPY . .
 
-# Initialize Reflex (now unzip is available)
-RUN reflex init
+# NON-interactive initialization
+RUN reflex init --template blank
 
 EXPOSE 3000
 
